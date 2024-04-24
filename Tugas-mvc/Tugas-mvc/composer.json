@@ -1,0 +1,17 @@
+{
+    "name": "pemweb/Tugas_mvc",
+    "description": "latihan membuat MVC",
+    "type": "project",
+    "authors": [ {
+        "name": "web-lanjut",
+        "email": "web-lanjut@unesa.ac.id"
+    }],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.15"
+    }
+}
